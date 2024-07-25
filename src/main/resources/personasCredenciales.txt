@@ -1,0 +1,34 @@
+Contraseña  |  Nombre    |     Correo        |                Contraseña Encriptada
+1234567890- |  mateo     | mateo@gmail.com   | $2a$12$EFP2mznoWB8ZDBrWaHn6v.Us1i5wY0tPQIBDN2bSHzFmI5RqvZ5o.
+2345678901- |  david     | david@aol.com     | $2a$12$hbUkqqfvLAQAM5aOls76nevobuiXGwZCgzXGH39QzXBwjCxmWwvFy
+3456789012- |  ana       | ana@aol.com       | $2a$12$1U0Awc1lKW77vbjiOObIu.FGmxeZttcpvkZFJFmfls5igpEKLZGsG
+4567890123- |  julio     | julio@gmail.com   | $2a$12$b8CyCtHy61h7TGydmZzkKOJ/HqC7mua8swLdYaVesZMo05wAD487G
+5678901234- |  Andrés    | andres@yahoo.com  | $2a$12$Yi/tqdLloKG7673uRrkst.P9LcRkS7i2LuzF0UAqHPAyGDMnW3E9S
+6789012345- |  Hernando  | hernan@gmail.com  | $2a$12$cISMxVWo/ASbXwREStBzo.06/U/wkFI1zq/TMXj3uW9z/jymaVbla
+7890123456- |  Javier    | javier@yahoo.com  | $2a$12$gp9vlIK6/e6cFTihYs1Ytu1xFRaYcH.JMA7b68Zn9MhK1kSl4G02a
+8901234567- |  Sofía     | sofia@gmail.com   | $2a$12$UTEf/6Y5dw2Rw/t4M2d/2Oos.aDjObgl/QAZrfCmiWrUcGDZnQSk6
+9012345678- |  Alejandra | aleja@yahoo.com   | $2a$12$b0pWH6jCMv.VccNYWmPbx.AJ4HB3.1Tz9Ag/GV8P0Q66pfNSGFK8G
+0123456789- |  Paula     | paula@yahoo.com   | $2a$12$b0WIl3OO4hx.Zw5c7q1HxuArTtrVjZJv4tCNArREz0k1PSTBsDwZG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
